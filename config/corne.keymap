@@ -84,7 +84,7 @@
 
         perc {
             bindings = <&kp PERCENT>;
-            key-positions = <5 17>;
+            key-positions = <10 4>;
         };
 
         equal {
@@ -94,7 +94,7 @@
 
         dollar {
             bindings = <&kp DOLLAR>;
-            key-positions = <4 16>;
+            key-positions = <14 21>;
         };
 
         pound {
@@ -104,7 +104,7 @@
 
         at {
             bindings = <&kp AT>;
-            key-positions = <2 14>;
+            key-positions = <13 5>;
         };
 
         backslash {
